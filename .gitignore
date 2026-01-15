@@ -1,0 +1,14 @@
+#Python
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+__pypackages__/
+
+
+# Environment files (auto-generated)
+infra/environment/ngmm_env.yml
+
+# Jupyter 
+.ipynb_checkpoints
+.ipynb_checkpoints/ 
